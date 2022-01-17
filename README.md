@@ -14,3 +14,13 @@ We can also see that Charter school performance is increased slightly after remo
 ![image](https://user-images.githubusercontent.com/95973377/149841566-1d8d1e74-1b23-43d5-a63c-f73ccc66ec24.png)
 
 We do not see a change is Thomas High school rankings compared to tother schools after removing the 9th grade class the first graph is before and the second is after and Thomas High school stays at 13th place 
+
+![image](https://user-images.githubusercontent.com/95973377/149841613-292d8682-0cd9-4149-a671-73010d8ba9f7.png)
+
+![image](https://user-images.githubusercontent.com/95973377/149841630-09a5ae21-98e8-4f54-b15a-81d0c0125b27.png)
+
+We would not see a change in scores by grade. After removing Thomas Highschool we have a chart that shows NaN to show there is no results for that school or grade 
+
+![image](https://user-images.githubusercontent.com/95973377/149841656-e4e65533-e08f-4a86-b7cd-dc2d0589751b.png)
+
+We did see a slight decrease in school size spending and type but only in medium schools, and Charter schools. Since Thomas Highschool is a medium charter school removing the 9th grade data would only affect those results. 
