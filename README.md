@@ -12,3 +12,5 @@ If we format the results to one decimal pointe the results are not affected by r
 We can also see that Charter school performance is increased slightly after removing the 9th grade class
 
 ![image](https://user-images.githubusercontent.com/95973377/149841566-1d8d1e74-1b23-43d5-a63c-f73ccc66ec24.png)
+
+We do not see a change is Thomas High school rankings compared to tother schools after removing the 9th grade class the first graph is before and the second is after and Thomas High school stays at 13th place 
