@@ -6,3 +6,5 @@ Maria asked us to put together an analysis of passing test scores for reading an
 **Results**
 
 If we format the results to one decimal pointe the results are not affected by removing Thomas Highschool 9th grade. For this case we would want to view the average further out to show the difference. We do see that for the medium schools the average passing grade has dropped slightly. The first graph is before removing the 9th grade class and the second is after removing the 9th grade class
+
+![image](https://user-images.githubusercontent.com/95973377/149841520-db6cd775-6506-4305-80b5-f043ece3a51e.png)
